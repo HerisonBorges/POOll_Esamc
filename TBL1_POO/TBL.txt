@@ -1,0 +1,25 @@
+ Sistema de Pedidos Online
+
+-CASCATA
+- Definição do problema: Apresentar um software que registre os pedidos online de um cliente, bem como a relação entre as suas classes que no caso seria:
+O cliente, o produto e o pedido; 
+A associação entre cliente e pedido;
+A associação entre pedido e multiplos produtos;
+Metodo que calcule o valor total do pedido/compra
+Metodo para o resumo do pedido
+O mesmo sera codificado em C#
+
+6 -
+a)Em conjunto com o cliente trabalhamos em em cascata, ou seja so passavamos para uma nova fase do projeto assim que a fase em que estavamos estivessem concluidas
+b)Estava garantida a partir de uma fase de testes da etapa
+c)Nesse caso voltaria o processo inteiro novamente, ou passar pelo modelo de cascata  realimentação
+
+MODELO INCREMENTAL
+
+a) Sim, a cada incremeto recebia um feedback do cliente
+b)Facilita
+c)Incremental
+d)incremental
+
+
+
