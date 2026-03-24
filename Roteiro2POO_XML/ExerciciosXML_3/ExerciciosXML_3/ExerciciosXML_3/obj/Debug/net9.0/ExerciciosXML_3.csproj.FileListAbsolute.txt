@@ -1,0 +1,15 @@
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\bin\Debug\net9.0\ExerciciosXML_3.exe
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\bin\Debug\net9.0\ExerciciosXML_3.deps.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\bin\Debug\net9.0\ExerciciosXML_3.runtimeconfig.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\bin\Debug\net9.0\ExerciciosXML_3.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\bin\Debug\net9.0\ExerciciosXML_3.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\obj\Debug\net9.0\ExerciciosXML_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\obj\Debug\net9.0\ExerciciosXML_3.AssemblyInfoInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\obj\Debug\net9.0\ExerciciosXML_3.AssemblyInfo.cs
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\obj\Debug\net9.0\ExerciciosXML_3.csproj.CoreCompileInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\obj\Debug\net9.0\ExerciciosXML_3.sourcelink.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\obj\Debug\net9.0\ExerciciosXML_3.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\obj\Debug\net9.0\refint\ExerciciosXML_3.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\obj\Debug\net9.0\ExerciciosXML_3.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\obj\Debug\net9.0\ExerciciosXML_3.genruntimeconfig.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_3\ExerciciosXML_3\ExerciciosXML_3\obj\Debug\net9.0\ref\ExerciciosXML_3.dll

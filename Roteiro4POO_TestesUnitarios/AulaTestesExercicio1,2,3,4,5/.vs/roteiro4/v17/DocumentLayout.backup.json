@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F73E202-14D2-4F32-B5A2-539517CB927D}|AulaTestesExercicio0\\AulaTestesExercicio0.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio0\\aulatestesexercicio0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F73E202-14D2-4F32-B5A2-539517CB927D}|AulaTestesExercicio0\\AulaTestesExercicio0.csproj|solutionrelative:aulatestesexercicio0\\aulatestesexercicio0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F73E202-14D2-4F32-B5A2-539517CB927D}|AulaTestesExercicio0\\AulaTestesExercicio0.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio0\\calculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F73E202-14D2-4F32-B5A2-539517CB927D}|AulaTestesExercicio0\\AulaTestesExercicio0.csproj|solutionrelative:aulatestesexercicio0\\calculadoraimc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F73E202-14D2-4F32-B5A2-539517CB927D}|AulaTestesExercicio0\\AulaTestesExercicio0.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio0\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F73E202-14D2-4F32-B5A2-539517CB927D}|AulaTestesExercicio0\\AulaTestesExercicio0.csproj|solutionrelative:aulatestesexercicio0\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2427A9-C7C0-43EF-BE58-00BBFE959462}|AulaTestesExercicio5.Tests\\AulaTestesExercicio5.Tests.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio5.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2427A9-C7C0-43EF-BE58-00BBFE959462}|AulaTestesExercicio5.Tests\\AulaTestesExercicio5.Tests.csproj|solutionrelative:aulatestesexercicio5.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9329F4-A763-4B55-B592-7EA881AEDB0D}|AulaTestesExercicio5\\AulaTestesExercicio5.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio5\\calculadoradesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9329F4-A763-4B55-B592-7EA881AEDB0D}|AulaTestesExercicio5\\AulaTestesExercicio5.csproj|solutionrelative:aulatestesexercicio5\\calculadoradesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9329F4-A763-4B55-B592-7EA881AEDB0D}|AulaTestesExercicio5\\AulaTestesExercicio5.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9329F4-A763-4B55-B592-7EA881AEDB0D}|AulaTestesExercicio5\\AulaTestesExercicio5.csproj|solutionrelative:aulatestesexercicio5\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F5D6459-903B-4520-88A3-8A4CC0C95B58}|AulaTestesExercicio4.Tests\\AulaTestesExercicio4.Tests.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio4.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F5D6459-903B-4520-88A3-8A4CC0C95B58}|AulaTestesExercicio4.Tests\\AulaTestesExercicio4.Tests.csproj|solutionrelative:aulatestesexercicio4.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98448D67-26C7-48EF-AEC0-CCB7E392DC2B}|AulaTestesExercicio4\\AulaTestesExercicio4.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio4\\validadoridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98448D67-26C7-48EF-AEC0-CCB7E392DC2B}|AulaTestesExercicio4\\AulaTestesExercicio4.csproj|solutionrelative:aulatestesexercicio4\\validadoridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98448D67-26C7-48EF-AEC0-CCB7E392DC2B}|AulaTestesExercicio4\\AulaTestesExercicio4.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98448D67-26C7-48EF-AEC0-CCB7E392DC2B}|AulaTestesExercicio4\\AulaTestesExercicio4.csproj|solutionrelative:aulatestesexercicio4\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97BE1B6D-7350-4F70-9FF7-71E7BC964143}|AulaTestesExercicio3.Tests\\AulaTestesExercicio3.Tests.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio3.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97BE1B6D-7350-4F70-9FF7-71E7BC964143}|AulaTestesExercicio3.Tests\\AulaTestesExercicio3.Tests.csproj|solutionrelative:aulatestesexercicio3.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2BC85F-5830-4A38-913E-E5B2C5D5A33E}|AulaTestesExercicio3\\AulaTestesExercicio3.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio3\\conversortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2BC85F-5830-4A38-913E-E5B2C5D5A33E}|AulaTestesExercicio3\\AulaTestesExercicio3.csproj|solutionrelative:aulatestesexercicio3\\conversortemperatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E2BC85F-5830-4A38-913E-E5B2C5D5A33E}|AulaTestesExercicio3\\AulaTestesExercicio3.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E2BC85F-5830-4A38-913E-E5B2C5D5A33E}|AulaTestesExercicio3\\AulaTestesExercicio3.csproj|solutionrelative:aulatestesexercicio3\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8DE1ED-2ADF-412D-BC6E-F073FF448B40}|AulaTestesExercicio2.Tests\\AulaTestesExercicio2.Tests.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio2.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8DE1ED-2ADF-412D-BC6E-F073FF448B40}|AulaTestesExercicio2.Tests\\AulaTestesExercicio2.Tests.csproj|solutionrelative:aulatestesexercicio2.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA74B28-0944-448C-A7DF-B61E4AE2ADD6}|AulaTestesExercicio2\\AulaTestesExercicio2.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio2\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA74B28-0944-448C-A7DF-B61E4AE2ADD6}|AulaTestesExercicio2\\AulaTestesExercicio2.csproj|solutionrelative:aulatestesexercicio2\\carrinho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA74B28-0944-448C-A7DF-B61E4AE2ADD6}|AulaTestesExercicio2\\AulaTestesExercicio2.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA74B28-0944-448C-A7DF-B61E4AE2ADD6}|AulaTestesExercicio2\\AulaTestesExercicio2.csproj|solutionrelative:aulatestesexercicio2\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FA91D5-BAC0-41DA-8581-8BCA46EFD90E}|AulaTestesExercicio1.Tests\\AulaTestesExercicio1.Tests.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio1.tests\\validadorsenhatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FA91D5-BAC0-41DA-8581-8BCA46EFD90E}|AulaTestesExercicio1.Tests\\AulaTestesExercicio1.Tests.csproj|solutionrelative:aulatestesexercicio1.tests\\validadorsenhatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5FA91D5-BAC0-41DA-8581-8BCA46EFD90E}|AulaTestesExercicio1.Tests\\AulaTestesExercicio1.Tests.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio1.tests\\validadorsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5FA91D5-BAC0-41DA-8581-8BCA46EFD90E}|AulaTestesExercicio1.Tests\\AulaTestesExercicio1.Tests.csproj|solutionrelative:aulatestesexercicio1.tests\\validadorsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2209F0EC-9D13-496F-815B-03E8D08501B0}|AulaTestesExercicio1\\AulaTestesExercicio1.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2209F0EC-9D13-496F-815B-03E8D08501B0}|AulaTestesExercicio1\\AulaTestesExercicio1.csproj|solutionrelative:aulatestesexercicio1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F73E202-14D2-4F32-B5A2-539517CB927D}|AulaTestesExercicio0\\AulaTestesExercicio0.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F73E202-14D2-4F32-B5A2-539517CB927D}|AulaTestesExercicio0\\AulaTestesExercicio0.csproj|solutionrelative:aulatestesexercicio0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F73E202-14D2-4F32-B5A2-539517CB927D}|AulaTestesExercicio0\\AulaTestesExercicio0.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestesexercicio0\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F73E202-14D2-4F32-B5A2-539517CB927D}|AulaTestesExercicio0\\AulaTestesExercicio0.csproj|solutionrelative:aulatestesexercicio0\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FCC8B7-625E-4B18-A82C-AF9D8FB74945}|AulaTestes.Tests\\AulaTestes.Tests.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestes.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75FCC8B7-625E-4B18-A82C-AF9D8FB74945}|AulaTestes.Tests\\AulaTestes.Tests.csproj|solutionrelative:aulatestes.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75FCC8B7-625E-4B18-A82C-AF9D8FB74945}|AulaTestes.Tests\\AulaTestes.Tests.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro4poo_testesunitarios\\aulatestesexercicio1,2,3,4,5\\aulatestes.tests\\aulatestes.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75FCC8B7-625E-4B18-A82C-AF9D8FB74945}|AulaTestes.Tests\\AulaTestes.Tests.csproj|solutionrelative:aulatestes.tests\\aulatestes.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculadoraDesconto.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio5\\CalculadoraDesconto.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio5\\CalculadoraDesconto.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio5\\CalculadoraDesconto.cs",
+              "RelativeToolTip": "AulaTestesExercicio5\\CalculadoraDesconto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:52:51.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio5.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio5.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio5.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "AulaTestesExercicio5.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:52:08.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio5\\Class1.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio5\\Class1.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio5\\Class1.cs",
+              "RelativeToolTip": "AulaTestesExercicio5\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:51:49.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidadorIdade.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio4\\ValidadorIdade.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio4\\ValidadorIdade.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio4\\ValidadorIdade.cs",
+              "RelativeToolTip": "AulaTestesExercicio4\\ValidadorIdade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:49:12.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio4.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio4.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio4.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "AulaTestesExercicio4.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:48:01.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio4\\Class1.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio4\\Class1.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio4\\Class1.cs",
+              "RelativeToolTip": "AulaTestesExercicio4\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:47:28.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConversorTemperatura.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio3\\ConversorTemperatura.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio3\\ConversorTemperatura.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio3\\ConversorTemperatura.cs",
+              "RelativeToolTip": "AulaTestesExercicio3\\ConversorTemperatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:44:07.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio3.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio3.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio3.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "AulaTestesExercicio3.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:43:19.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio3\\Class1.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio3\\Class1.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio3\\Class1.cs",
+              "RelativeToolTip": "AulaTestesExercicio3\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:42:42.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Carrinho.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio2\\Carrinho.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio2\\Carrinho.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio2\\Carrinho.cs",
+              "RelativeToolTip": "AulaTestesExercicio2\\Carrinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:38:14.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio2.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio2.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio2.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "AulaTestesExercicio2.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:36:47.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio2\\Class1.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio2\\Class1.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio2\\Class1.cs",
+              "RelativeToolTip": "AulaTestesExercicio2\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:36:06.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ValidadorSenha.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio1.Tests\\ValidadorSenha.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio1.Tests\\ValidadorSenha.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio1.Tests\\ValidadorSenha.cs",
+              "RelativeToolTip": "AulaTestesExercicio1.Tests\\ValidadorSenha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:30:12.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValidadorSenhaTests.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio1.Tests\\ValidadorSenhaTests.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio1.Tests\\ValidadorSenhaTests.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio1.Tests\\ValidadorSenhaTests.cs",
+              "RelativeToolTip": "AulaTestesExercicio1.Tests\\ValidadorSenhaTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:28:59.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio1\\Class1.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio1\\Class1.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio1\\Class1.cs",
+              "RelativeToolTip": "AulaTestesExercicio1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T16:27:59.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AulaTestesExercicio0.csproj",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio0\\AulaTestesExercicio0.csproj",
+              "RelativeDocumentMoniker": "AulaTestesExercicio0\\AulaTestesExercicio0.csproj",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio0\\AulaTestesExercicio0.csproj",
+              "RelativeToolTip": "AulaTestesExercicio0\\AulaTestesExercicio0.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T16:19:57.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraIMC.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio0\\CalculadoraIMC.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio0\\CalculadoraIMC.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio0\\CalculadoraIMC.cs",
+              "RelativeToolTip": "AulaTestesExercicio0\\CalculadoraIMC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:52:14.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carrinho.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio0\\Carrinho.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio0\\Carrinho.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio0\\Carrinho.cs",
+              "RelativeToolTip": "AulaTestesExercicio0\\Carrinho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:51:57.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio0\\Calculadora.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio0\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio0\\Calculadora.cs",
+              "RelativeToolTip": "AulaTestesExercicio0\\Calculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:51:45.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AulaTestes.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestes.Tests\\AulaTestes.Tests.csproj",
+              "RelativeDocumentMoniker": "AulaTestes.Tests\\AulaTestes.Tests.csproj",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestes.Tests\\AulaTestes.Tests.csproj",
+              "RelativeToolTip": "AulaTestes.Tests\\AulaTestes.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-24T15:42:26.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestes.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AulaTestes.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestes.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "AulaTestes.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:41:18.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio0\\Program.cs",
+              "RelativeDocumentMoniker": "AulaTestesExercicio0\\Program.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro4POO_TestesUnitarios\\AulaTestesExercicio1,2,3,4,5\\AulaTestesExercicio0\\Program.cs",
+              "RelativeToolTip": "AulaTestesExercicio0\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T15:39:39.11Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

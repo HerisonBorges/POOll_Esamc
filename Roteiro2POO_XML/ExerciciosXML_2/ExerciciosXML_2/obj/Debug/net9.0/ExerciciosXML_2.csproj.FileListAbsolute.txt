@@ -1,0 +1,15 @@
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\bin\Debug\net9.0\ExerciciosXML_2.exe
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\bin\Debug\net9.0\ExerciciosXML_2.deps.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\bin\Debug\net9.0\ExerciciosXML_2.runtimeconfig.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\bin\Debug\net9.0\ExerciciosXML_2.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\bin\Debug\net9.0\ExerciciosXML_2.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\obj\Debug\net9.0\ExerciciosXML_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\obj\Debug\net9.0\ExerciciosXML_2.AssemblyInfoInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\obj\Debug\net9.0\ExerciciosXML_2.AssemblyInfo.cs
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\obj\Debug\net9.0\ExerciciosXML_2.csproj.CoreCompileInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\obj\Debug\net9.0\ExerciciosXML_2.sourcelink.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\obj\Debug\net9.0\ExerciciosXML_2.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\obj\Debug\net9.0\refint\ExerciciosXML_2.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\obj\Debug\net9.0\ExerciciosXML_2.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\obj\Debug\net9.0\ExerciciosXML_2.genruntimeconfig.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro2POO\ExerciciosXML_2\ExerciciosXML_2\obj\Debug\net9.0\ref\ExerciciosXML_2.dll

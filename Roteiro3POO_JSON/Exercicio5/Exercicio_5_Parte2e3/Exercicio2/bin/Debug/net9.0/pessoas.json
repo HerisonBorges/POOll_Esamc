@@ -1,0 +1,26 @@
+[
+  {
+    "Nome": "Notebook",
+    "Id": 2,
+    "Preco": 2700.0,
+    "Estoque": 100,
+    "Fornecedor": "Lenovo",
+    "CodigoInterno": 0
+  },
+  {
+    "Nome": "Mouse",
+    "Id": 3,
+    "Preco": 270.0,
+    "Estoque": 10,
+    "Fornecedor": "Raiser",
+    "CodigoInterno": 0
+  },
+  {
+    "Nome": "Teclado",
+    "Id": 2,
+    "Preco": 270.0,
+    "Estoque": 100,
+    "Fornecedor": "Lenovo",
+    "CodigoInterno": 0
+  }
+]

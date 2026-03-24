@@ -1,0 +1,12 @@
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro4POO_TestesUnitarios\AulaTestesExercicio0\AulaTestesExercicio3\bin\Debug\net9.0\AulaTestesExercicio3.deps.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro4POO_TestesUnitarios\AulaTestesExercicio0\AulaTestesExercicio3\bin\Debug\net9.0\AulaTestesExercicio3.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro4POO_TestesUnitarios\AulaTestesExercicio0\AulaTestesExercicio3\bin\Debug\net9.0\AulaTestesExercicio3.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro4POO_TestesUnitarios\AulaTestesExercicio0\AulaTestesExercicio3\obj\Debug\net9.0\AulaTestesExercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro4POO_TestesUnitarios\AulaTestesExercicio0\AulaTestesExercicio3\obj\Debug\net9.0\AulaTestesExercicio3.AssemblyInfoInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro4POO_TestesUnitarios\AulaTestesExercicio0\AulaTestesExercicio3\obj\Debug\net9.0\AulaTestesExercicio3.AssemblyInfo.cs
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro4POO_TestesUnitarios\AulaTestesExercicio0\AulaTestesExercicio3\obj\Debug\net9.0\AulaTestesExercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro4POO_TestesUnitarios\AulaTestesExercicio0\AulaTestesExercicio3\obj\Debug\net9.0\AulaTestesExercicio3.sourcelink.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro4POO_TestesUnitarios\AulaTestesExercicio0\AulaTestesExercicio3\obj\Debug\net9.0\AulaTestesExercicio3.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro4POO_TestesUnitarios\AulaTestesExercicio0\AulaTestesExercicio3\obj\Debug\net9.0\refint\AulaTestesExercicio3.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro4POO_TestesUnitarios\AulaTestesExercicio0\AulaTestesExercicio3\obj\Debug\net9.0\AulaTestesExercicio3.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro4POO_TestesUnitarios\AulaTestesExercicio0\AulaTestesExercicio3\obj\Debug\net9.0\ref\AulaTestesExercicio3.dll
