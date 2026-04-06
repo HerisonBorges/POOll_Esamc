@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\ExerciciosDLL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59263CBF-9CA7-44FC-88E5-603482DADBFF}|BibliotecaCalculos\\BibliotecaCalculos.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roreiro1poo_dll\\exerciciosdll\\bibliotecacalculos\\calculadoraarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59263CBF-9CA7-44FC-88E5-603482DADBFF}|BibliotecaCalculos\\BibliotecaCalculos.csproj|solutionrelative:bibliotecacalculos\\calculadoraarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6E0D131-BC19-41F3-86DA-B0F1110CC21F}|AppTesteDLL\\AppTesteDLL.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roreiro1poo_dll\\exerciciosdll\\apptestedll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6E0D131-BC19-41F3-86DA-B0F1110CC21F}|AppTesteDLL\\AppTesteDLL.csproj|solutionrelative:apptestedll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59263CBF-9CA7-44FC-88E5-603482DADBFF}|BibliotecaCalculos\\BibliotecaCalculos.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roreiro1poo_dll\\exerciciosdll\\bibliotecacalculos\\calculadoraarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59263CBF-9CA7-44FC-88E5-603482DADBFF}|BibliotecaCalculos\\BibliotecaCalculos.csproj|solutionrelative:bibliotecacalculos\\calculadoraarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1304C25-E6F6-4B07-B9C2-016C01603F18}|BibliotecaConversao\\BibliotecaConversao.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roreiro1poo_dll\\exerciciosdll\\bibliotecaconversao\\conversores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CalculadoraArea.cs",
               "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\ExerciciosDLL\\BibliotecaCalculos\\CalculadoraArea.cs",
               "RelativeDocumentMoniker": "BibliotecaCalculos\\CalculadoraArea.cs",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\ExerciciosDLL\\AppTesteDLL\\Program.cs",
               "RelativeDocumentMoniker": "AppTesteDLL\\Program.cs",
               "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\ExerciciosDLL\\AppTesteDLL\\Program.cs",
               "RelativeToolTip": "AppTesteDLL\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T16:22:24.334Z",
               "EditorCaption": ""
