@@ -1,0 +1,12 @@
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\ExerciciosDLL\BibliotecaConversao\bin\Debug\net9.0\BibliotecaConversao.deps.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\ExerciciosDLL\BibliotecaConversao\bin\Debug\net9.0\BibliotecaConversao.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\ExerciciosDLL\BibliotecaConversao\bin\Debug\net9.0\BibliotecaConversao.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\ExerciciosDLL\BibliotecaConversao\obj\Debug\net9.0\BibliotecaConversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\ExerciciosDLL\BibliotecaConversao\obj\Debug\net9.0\BibliotecaConversao.AssemblyInfoInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\ExerciciosDLL\BibliotecaConversao\obj\Debug\net9.0\BibliotecaConversao.AssemblyInfo.cs
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\ExerciciosDLL\BibliotecaConversao\obj\Debug\net9.0\BibliotecaConversao.csproj.CoreCompileInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\ExerciciosDLL\BibliotecaConversao\obj\Debug\net9.0\BibliotecaConversao.sourcelink.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\ExerciciosDLL\BibliotecaConversao\obj\Debug\net9.0\BibliotecaConversao.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\ExerciciosDLL\BibliotecaConversao\obj\Debug\net9.0\refint\BibliotecaConversao.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\ExerciciosDLL\BibliotecaConversao\obj\Debug\net9.0\BibliotecaConversao.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\ExerciciosDLL\BibliotecaConversao\obj\Debug\net9.0\ref\BibliotecaConversao.dll

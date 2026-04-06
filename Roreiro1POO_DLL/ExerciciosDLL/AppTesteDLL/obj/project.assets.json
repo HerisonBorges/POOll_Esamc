@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "BibliotecaCalculos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BibliotecaCalculos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BibliotecaCalculos.dll": {}
+        }
+      },
+      "BibliotecaConversao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BibliotecaConversao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BibliotecaConversao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BibliotecaCalculos/1.0.0": {
+      "type": "project",
+      "path": "../BibliotecaCalculos/BibliotecaCalculos.csproj",
+      "msbuildProject": "../BibliotecaCalculos/BibliotecaCalculos.csproj"
+    },
+    "BibliotecaConversao/1.0.0": {
+      "type": "project",
+      "path": "../BibliotecaConversao/BibliotecaConversao.csproj",
+      "msbuildProject": "../BibliotecaConversao/BibliotecaConversao.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "BibliotecaCalculos >= 1.0.0",
+      "BibliotecaConversao >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Thoor\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\ExerciciosDLL\\AppTesteDLL\\AppTesteDLL.csproj",
+      "projectName": "AppTesteDLL",
+      "projectPath": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\ExerciciosDLL\\AppTesteDLL\\AppTesteDLL.csproj",
+      "packagesPath": "C:\\Users\\Thoor\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\ExerciciosDLL\\AppTesteDLL\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Thoor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\ExerciciosDLL\\BibliotecaCalculos\\BibliotecaCalculos.csproj": {
+              "projectPath": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\ExerciciosDLL\\BibliotecaCalculos\\BibliotecaCalculos.csproj"
+            },
+            "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\ExerciciosDLL\\BibliotecaConversao\\BibliotecaConversao.csproj": {
+              "projectPath": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\ExerciciosDLL\\BibliotecaConversao\\BibliotecaConversao.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
