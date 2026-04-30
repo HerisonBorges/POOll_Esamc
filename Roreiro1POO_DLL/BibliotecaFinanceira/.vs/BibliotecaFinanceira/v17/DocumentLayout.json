@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\BibliotecaFinanceira\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F42BE68C-BFFC-4C91-9575-8CCA8D410E1B}|AppTesteFinanceiro\\AppTesteFinanceiro.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roreiro1poo_dll\\bibliotecafinanceira\\apptestefinanceiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F42BE68C-BFFC-4C91-9575-8CCA8D410E1B}|AppTesteFinanceiro\\AppTesteFinanceiro.csproj|solutionrelative:apptestefinanceiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B02B7F3-465E-474D-BBFE-571B261BAE12}|BibliotecaValidacoes\\BibliotecaValidacoes.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roreiro1poo_dll\\bibliotecafinanceira\\bibliotecavalidacoes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B02B7F3-465E-474D-BBFE-571B261BAE12}|BibliotecaValidacoes\\BibliotecaValidacoes.csproj|solutionrelative:bibliotecavalidacoes\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9DC3EDA-B298-4930-8BA3-F2B1031B93B4}|BibliotecaFinanceira\\BibliotecaFinanceira.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roreiro1poo_dll\\bibliotecafinanceira\\bibliotecafinanceira\\calculadorajuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9DC3EDA-B298-4930-8BA3-F2B1031B93B4}|BibliotecaFinanceira\\BibliotecaFinanceira.csproj|solutionrelative:bibliotecafinanceira\\calculadorajuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\BibliotecaFinanceira\\BibliotecaValidacoes\\Class1.cs",
+              "RelativeDocumentMoniker": "BibliotecaValidacoes\\Class1.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\BibliotecaFinanceira\\BibliotecaValidacoes\\Class1.cs",
+              "RelativeToolTip": "BibliotecaValidacoes\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T17:45:01.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\BibliotecaFinanceira\\AppTesteFinanceiro\\Program.cs",
+              "RelativeDocumentMoniker": "AppTesteFinanceiro\\Program.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\BibliotecaFinanceira\\AppTesteFinanceiro\\Program.cs",
+              "RelativeToolTip": "AppTesteFinanceiro\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T17:39:37.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculadoraJuros.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\BibliotecaFinanceira\\BibliotecaFinanceira\\CalculadoraJuros.cs",
+              "RelativeDocumentMoniker": "BibliotecaFinanceira\\CalculadoraJuros.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roreiro1POO_DLL\\BibliotecaFinanceira\\BibliotecaFinanceira\\CalculadoraJuros.cs",
+              "RelativeToolTip": "BibliotecaFinanceira\\CalculadoraJuros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T17:31:37.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

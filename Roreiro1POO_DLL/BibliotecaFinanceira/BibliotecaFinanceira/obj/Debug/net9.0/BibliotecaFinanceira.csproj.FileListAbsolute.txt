@@ -1,0 +1,12 @@
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net9.0\BibliotecaFinanceira.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net9.0\BibliotecaFinanceira.AssemblyInfoInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net9.0\BibliotecaFinanceira.AssemblyInfo.cs
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net9.0\BibliotecaFinanceira.csproj.CoreCompileInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net9.0\BibliotecaFinanceira.sourcelink.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaFinanceira\bin\Debug\net9.0\BibliotecaFinanceira.deps.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaFinanceira\bin\Debug\net9.0\BibliotecaFinanceira.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaFinanceira\bin\Debug\net9.0\BibliotecaFinanceira.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net9.0\BibliotecaFinanceira.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net9.0\refint\BibliotecaFinanceira.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net9.0\BibliotecaFinanceira.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaFinanceira\obj\Debug\net9.0\ref\BibliotecaFinanceira.dll

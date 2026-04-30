@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AppTesteFinanceiro/1.0.0": {
+        "dependencies": {
+          "BibliotecaFinanceira": "1.0.0",
+          "BibliotecaValidacoes": "1.0.0"
+        },
+        "runtime": {
+          "AppTesteFinanceiro.dll": {}
+        }
+      },
+      "BibliotecaFinanceira/1.0.0": {
+        "runtime": {
+          "BibliotecaFinanceira.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "BibliotecaValidacoes/1.0.0": {
+        "runtime": {
+          "BibliotecaValidacoes.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppTesteFinanceiro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaFinanceira/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BibliotecaValidacoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

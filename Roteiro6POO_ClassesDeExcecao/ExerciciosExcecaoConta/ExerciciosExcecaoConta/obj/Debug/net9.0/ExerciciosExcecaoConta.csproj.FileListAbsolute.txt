@@ -1,0 +1,15 @@
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\bin\Debug\net9.0\ExerciciosExcecaoConta.exe
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\bin\Debug\net9.0\ExerciciosExcecaoConta.deps.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\bin\Debug\net9.0\ExerciciosExcecaoConta.runtimeconfig.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\bin\Debug\net9.0\ExerciciosExcecaoConta.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\bin\Debug\net9.0\ExerciciosExcecaoConta.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\obj\Debug\net9.0\ExerciciosExcecaoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\obj\Debug\net9.0\ExerciciosExcecaoConta.AssemblyInfoInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\obj\Debug\net9.0\ExerciciosExcecaoConta.AssemblyInfo.cs
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\obj\Debug\net9.0\ExerciciosExcecaoConta.csproj.CoreCompileInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\obj\Debug\net9.0\ExerciciosExcecaoConta.sourcelink.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\obj\Debug\net9.0\ExerciciosExcecaoConta.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\obj\Debug\net9.0\refint\ExerciciosExcecaoConta.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\obj\Debug\net9.0\ExerciciosExcecaoConta.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\obj\Debug\net9.0\ExerciciosExcecaoConta.genruntimeconfig.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roteiro6POO_ClassesDeExcecao\ExerciciosExcecaoConta\ExerciciosExcecaoConta\obj\Debug\net9.0\ref\ExerciciosExcecaoConta.dll

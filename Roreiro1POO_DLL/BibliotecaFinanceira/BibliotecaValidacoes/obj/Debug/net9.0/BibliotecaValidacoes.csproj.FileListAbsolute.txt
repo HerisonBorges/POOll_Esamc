@@ -1,0 +1,12 @@
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaValidacoes\bin\Debug\net9.0\BibliotecaValidacoes.deps.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaValidacoes\bin\Debug\net9.0\BibliotecaValidacoes.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaValidacoes\bin\Debug\net9.0\BibliotecaValidacoes.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaValidacoes\obj\Debug\net9.0\BibliotecaValidacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaValidacoes\obj\Debug\net9.0\BibliotecaValidacoes.AssemblyInfoInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaValidacoes\obj\Debug\net9.0\BibliotecaValidacoes.AssemblyInfo.cs
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaValidacoes\obj\Debug\net9.0\BibliotecaValidacoes.csproj.CoreCompileInputs.cache
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaValidacoes\obj\Debug\net9.0\BibliotecaValidacoes.sourcelink.json
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaValidacoes\obj\Debug\net9.0\BibliotecaValidacoes.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaValidacoes\obj\Debug\net9.0\refint\BibliotecaValidacoes.dll
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaValidacoes\obj\Debug\net9.0\BibliotecaValidacoes.pdb
+C:\Users\Thoor\Desktop\POOll_Esamc\Roreiro1POO_DLL\BibliotecaFinanceira\BibliotecaValidacoes\obj\Debug\net9.0\ref\BibliotecaValidacoes.dll

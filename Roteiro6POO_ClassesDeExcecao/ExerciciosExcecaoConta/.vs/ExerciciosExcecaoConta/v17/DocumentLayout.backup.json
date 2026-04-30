@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro6POO_ClassesDeExcecao\\ExerciciosExcecaoConta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8497624-2A95-4853-8AA7-03CE3BC793EA}|ExerciciosExcecaoConta\\ExerciciosExcecaoConta.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro6poo_classesdeexcecao\\exerciciosexcecaoconta\\exerciciosexcecaoconta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8497624-2A95-4853-8AA7-03CE3BC793EA}|ExerciciosExcecaoConta\\ExerciciosExcecaoConta.csproj|solutionrelative:exerciciosexcecaoconta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8497624-2A95-4853-8AA7-03CE3BC793EA}|ExerciciosExcecaoConta\\ExerciciosExcecaoConta.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro6poo_classesdeexcecao\\exerciciosexcecaoconta\\exerciciosexcecaoconta\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8497624-2A95-4853-8AA7-03CE3BC793EA}|ExerciciosExcecaoConta\\ExerciciosExcecaoConta.csproj|solutionrelative:exerciciosexcecaoconta\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8497624-2A95-4853-8AA7-03CE3BC793EA}|ExerciciosExcecaoConta\\ExerciciosExcecaoConta.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro6poo_classesdeexcecao\\exerciciosexcecaoconta\\exerciciosexcecaoconta\\limitediarioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8497624-2A95-4853-8AA7-03CE3BC793EA}|ExerciciosExcecaoConta\\ExerciciosExcecaoConta.csproj|solutionrelative:exerciciosexcecaoconta\\limitediarioexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8497624-2A95-4853-8AA7-03CE3BC793EA}|ExerciciosExcecaoConta\\ExerciciosExcecaoConta.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro6poo_classesdeexcecao\\exerciciosexcecaoconta\\exerciciosexcecaoconta\\saldoinsuficienteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8497624-2A95-4853-8AA7-03CE3BC793EA}|ExerciciosExcecaoConta\\ExerciciosExcecaoConta.csproj|solutionrelative:exerciciosexcecaoconta\\saldoinsuficienteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LimiteDiarioException.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro6POO_ClassesDeExcecao\\ExerciciosExcecaoConta\\ExerciciosExcecaoConta\\LimiteDiarioException.cs",
+              "RelativeDocumentMoniker": "ExerciciosExcecaoConta\\LimiteDiarioException.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro6POO_ClassesDeExcecao\\ExerciciosExcecaoConta\\ExerciciosExcecaoConta\\LimiteDiarioException.cs",
+              "RelativeToolTip": "ExerciciosExcecaoConta\\LimiteDiarioException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:12:04.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaldoInsuficienteException.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro6POO_ClassesDeExcecao\\ExerciciosExcecaoConta\\ExerciciosExcecaoConta\\SaldoInsuficienteException.cs",
+              "RelativeDocumentMoniker": "ExerciciosExcecaoConta\\SaldoInsuficienteException.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro6POO_ClassesDeExcecao\\ExerciciosExcecaoConta\\ExerciciosExcecaoConta\\SaldoInsuficienteException.cs",
+              "RelativeToolTip": "ExerciciosExcecaoConta\\SaldoInsuficienteException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:06:09.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro6POO_ClassesDeExcecao\\ExerciciosExcecaoConta\\ExerciciosExcecaoConta\\Conta.cs",
+              "RelativeDocumentMoniker": "ExerciciosExcecaoConta\\Conta.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro6POO_ClassesDeExcecao\\ExerciciosExcecaoConta\\ExerciciosExcecaoConta\\Conta.cs",
+              "RelativeToolTip": "ExerciciosExcecaoConta\\Conta.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:03:35.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro6POO_ClassesDeExcecao\\ExerciciosExcecaoConta\\ExerciciosExcecaoConta\\Program.cs",
+              "RelativeDocumentMoniker": "ExerciciosExcecaoConta\\Program.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro6POO_ClassesDeExcecao\\ExerciciosExcecaoConta\\ExerciciosExcecaoConta\\Program.cs*",
+              "RelativeToolTip": "ExerciciosExcecaoConta\\Program.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T17:02:15.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
