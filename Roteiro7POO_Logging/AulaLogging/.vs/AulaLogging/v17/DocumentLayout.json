@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro7POO_Logging\\AulaLogging\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3949A86E-419B-4571-8F72-63228E9C1912}|AulaLogging\\AulaLogging.csproj|c:\\users\\thoor\\.nuget\\packages\\nlog.config\\4.7.15\\contentfiles\\any\\any\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3949A86E-419B-4571-8F72-63228E9C1912}|AulaLogging\\AulaLogging.csproj|c:\\users\\thoor\\.nuget\\packages\\nlog.config\\4.7.15\\contentfiles\\any\\any\\nlog.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3949A86E-419B-4571-8F72-63228E9C1912}|AulaLogging\\AulaLogging.csproj|c:\\users\\thoor\\desktop\\pooll_esamc\\roteiro7poo_logging\\aulalogging\\aulalogging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3949A86E-419B-4571-8F72-63228E9C1912}|AulaLogging\\AulaLogging.csproj|solutionrelative:aulalogging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\Users\\Thoor\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
+              "ToolTip": "C:\\Users\\Thoor\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAArAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-11T15:17:25.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NLog.config",
+              "DocumentMoniker": "C:\\Users\\Thoor\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config",
+              "ToolTip": "C:\\Users\\Thoor\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config [Somente Leitura]",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\nlog.config\\4.7.15\\contentFiles\\any\\any\\NLog.config [Somente Leitura]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAHAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-11T15:14:54.051Z",
+              "EditorCaption": " [Somente Leitura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro7POO_Logging\\AulaLogging\\AulaLogging\\Program.cs",
+              "RelativeDocumentMoniker": "AulaLogging\\Program.cs",
+              "ToolTip": "C:\\Users\\Thoor\\Desktop\\POOll_Esamc\\Roteiro7POO_Logging\\AulaLogging\\AulaLogging\\Program.cs*",
+              "RelativeToolTip": "AulaLogging\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T15:08:59.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
